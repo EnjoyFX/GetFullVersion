@@ -5,3 +5,5 @@
 
 Usage: add Module to your project and add  to code: result = GetFullVersion(Errors).
 if result = true, you can get all (or some) parameters above for your further work.
+
+Example in file GetFullVersion.xlsm
