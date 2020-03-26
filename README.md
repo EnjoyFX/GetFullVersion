@@ -1,9 +1,9 @@
 # GetFullVersion
-## VBA code for detection full list of Microsoft Office product parameters##
+## VBA code for detection full list of Microsoft Office product parameters
  
-**Including:**
+**Included:**
 
-Public Type MSFullVersion (Raw As String, ReleaseVers As String, ReleaseType As String, MajorVersion As String, MinorVersion As String, ProductID As String, LanguageID As String, Year As String, x64 As Boolean, ForDebug  As Boolean, IsOffice As Boolean)
+```Public Type MSFullVersion (Raw As String, ReleaseVers As String, ReleaseType As String, MajorVersion As String, MinorVersion As String, ProductID As String, LanguageID As String, Year As String, x64 As Boolean, ForDebug  As Boolean, IsOffice As Boolean)```
 
 **Usage:**
 
