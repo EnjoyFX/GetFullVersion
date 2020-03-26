@@ -7,7 +7,10 @@ Public Type MSFullVersion (Raw As String, ReleaseVers As String, ReleaseType As 
 
 **Usage:**
 
-Add Module to your project and add  to code: result = GetFullVersion(Errors).
-if result = true, you can get all (or some) parameters above for your further work.
+Add Module to your project and add  to code:
+
+```result = GetFullVersion(Errors)```
+
+If result = True, you can get all (or some) parameters above for your further work.
 
 Example in file *GetFullVersion.xlsm*
